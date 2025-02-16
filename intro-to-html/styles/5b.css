@@ -1,0 +1,48 @@
+p {
+  font-family: Arial;
+  text-align: center;
+}
+
+.new-p {
+  font-weight: bold;
+  color: rgb(236, 154, 2);
+  margin-bottom: 0px;
+}
+
+.macbook-pro {
+  font-weight: bold;
+  color: black;
+  font-size: 25px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.supercharged-for-pros {
+  font-weight: bold;
+  color: black;
+  font-size: 40px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.price-tag {
+  font-family: Arial;
+  color: black;
+  margin-top: 10px;
+}
+
+.buy {
+    background-color: rgb(0, 113, 227);
+    color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+.buy-button:active {
+  opacity: 0.7;
+}

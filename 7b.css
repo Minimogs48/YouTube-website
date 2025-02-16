@@ -1,0 +1,240 @@
+div {
+  margin-right: 10px;
+}
+
+p {
+  font-family: Arial;
+  color: rgb(100, 100, 100);
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.email {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.search-bar {
+  width: 400px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(100, 100, 100);
+  border-radius: 5px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  margin-bottom: 20px;
+}
+
+.disclaimer {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.agree-button {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  font-size: 20px;
+  width: 400px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: padding-top 0.15s,
+  padding-bottom 0.15s,
+  width 0.15s,
+  opacity 0.9 0.15s,
+  background-color white 0.15s,
+  color rgb(10, 102, 194) 0.15s,
+  border solid 0.15s;
+}
+
+.agree-button:hover {
+  opacity: 0.9;
+  background-color: white;
+  color: rgb(10, 102, 194);
+  border: solid;
+}
+
+.agree-button:active {
+  opacity: 0.7;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 500px;
+}
+
+.kurt-angle-profile {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 600px;
+  object-position: center;
+  object-fit: cover;
+  vertical-align: middle;
+  margin-left: 20px;
+  margin-right: 5px;
+  }
+
+  .whats-happening {
+    color: rgb(100, 100, 100);
+    border: none;
+    vertical-align: middle;
+    font-size: 18px;
+    width: 300px;
+  }
+
+  .tweet-button {
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    vertical-align: middle;
+  }
+
+  .tweet-button:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+  }
+  
+  .tweet-button:active {
+    height: 40px;
+    width: 78px;
+    opacity: 0.7;
+  }
+
+  .twitter-div {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 475px;
+    display: inline-block;
+    border-style: none;
+    border-radius: 5px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  }
+
+  .profiles {
+    width: 200px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  }
+
+  .kurt-angle-profile-website {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 12px;
+  }
+
+  .name {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 8px;
+    margin-bottom: 4px;
+  }
+
+  .mutual-friends {
+    color: rgb(100, 100, 100);
+    margin-left: 8px;
+    margin-bottom: 12px;
+  }
+
+  .add-friend-button {
+    background-color: rgb(24, 119, 242);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+  }
+
+  .profile-2 {
+    width: 200px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  }
+
+  .skyler-white-profile-website {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 12px;
+  }
+
+  .name {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 8px;
+    margin-bottom: 4px;
+  }
+
+  .mutual-friends {
+    color: rgb(100, 100, 100);
+    margin-left: 8px;
+    margin-bottom: 12px;
+  }
+
+  .add-friend-button {
+    background-color: rgb(24, 119, 242);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+  }
+
+  .profile-3 {
+    width: 200px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  }
+
+  .skyler-white-profile-website {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 12px;
+  }
+
+  .name {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 8px;
+    margin-bottom: 4px;
+  }
+
+  .mutual-friends {
+    color: rgb(100, 100, 100);
+    margin-left: 8px;
+    margin-bottom: 12px;
+  }
+
+  .add-friend-button {
+    background-color: rgb(24, 119, 242);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+  }
+

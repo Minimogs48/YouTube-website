@@ -1,0 +1,53 @@
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.price {
+  font-size: 32px;
+  margin-bottom: 5px;
+}
+
+.currency {
+  color: rgb(100, 100, 100);
+  font-size: 16;
+}
+
+.change {
+  color: rgb(24, 128, 56);
+  margin-bottom: 8px;
+}
+
+.after-hours {
+  color: rgb(100, 100, 100);
+}
+
+.after-hours-change {
+  color: rgb(235, 39, 39);
+}
+
+.user {
+font-weight: bold;
+margin-top: 20px;
+margin-bottom: 5px;
+}
+
+.time {
+  color: rgb(100, 100, 100);
+  font-weight: normal;
+}
+
+.message {
+  width: 500px;
+  margin-bottom: 15px;
+}
+
+.username {
+  color: rgb(29, 155, 240);
+  cursor: pointer;
+}
+
+.username:hover {
+  text-decoration: underline;
+}
